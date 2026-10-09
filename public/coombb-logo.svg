@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-label="Coombb logo">
+  <defs>
+    <style>
+      .word { fill: #2b2f6b; font: 800 124px "Jost", "Segoe UI", sans-serif; letter-spacing: 2px; }
+      .honey { fill: none; stroke: #e9897e; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+  <text x="18" y="158" class="word">Coombb</text>
+  <g transform="translate(430 20)">
+    <path class="honey" d="M50 6 91 30v48l-41 24L9 78V30z"/>
+    <path class="honey" d="M130 6 171 30v48l-41 24-41-24V30z"/>
+    <path class="honey" d="M170 76 211 100v48l-41 24-41-24v-48z"/>
+    <path class="honey" d="m50 79 22 13 20-12"/>
+    <path class="honey" d="m130 79 22 13 20-12"/>
+    <path class="honey" d="m170 149 22 13 20-12"/>
+    <path class="honey" d="M71 106v42m20-42v42m39-42v42"/>
+    <path class="honey" d="M70 158v16m20 7v9m39-13v12"/>
+  </g>
+</svg>
